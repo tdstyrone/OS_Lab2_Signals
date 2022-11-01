@@ -22,7 +22,7 @@ void handleSigint(int signum){
   int timeTotal;
   stop = time(NULL);
   timeTotal = stop - start;
-  printf("The number of alarms were %d\n", timeTotal);
+  printf("The number of alarms were %d\n", numAlarm);
   exit(1);
 }
 
