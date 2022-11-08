@@ -1,3 +1,4 @@
+// Tyrone Smith + Deante Taylor
 /* timer.c */
 #include <stdio.h>
 #include <stdlib.h>
